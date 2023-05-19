@@ -1,0 +1,20 @@
+{
+  "DisplayName": "Nullable_Arguments",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_NullableBoolean",
+      "DisplayName": "in_NullableBoolean",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "Toggle",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    }
+  ]
+}

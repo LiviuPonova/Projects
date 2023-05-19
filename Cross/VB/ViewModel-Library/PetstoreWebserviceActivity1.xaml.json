@@ -1,0 +1,37 @@
+{
+  "DisplayName": "NewActivity",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": "#FF703060",
+  "IconRelativePath": "PetstoreWebserviceActivity1.xaml.svg",
+  "OriginalIconFileName": "forecast-moon-night-svgrepo-com.svg",
+  "Arguments": [
+    {
+      "Name": "petId",
+      "DisplayName": "petId",
+      "Category": "Porperietati de intrare",
+      "Tooltip": "The ID which will be used to add the new Pet in the database",
+      "Widget": "Input",
+      "IsRequired": false,
+      "IsPrincipal": true
+    },
+    {
+      "Name": "petName",
+      "DisplayName": "petName",
+      "Category": "Porperietati de intrare",
+      "Tooltip": "The name of the new Pet",
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true
+    },
+    {
+      "Name": "petResponse",
+      "DisplayName": "petResponse",
+      "Category": "Proprietati de iesire",
+      "Tooltip": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": false
+    }
+  ]
+}

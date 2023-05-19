@@ -1,0 +1,20 @@
+{
+  "DisplayName": "Nullable_Int64",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_Nullable_Int64",
+      "DisplayName": "in_Nullable_Int64",
+      "Category": "Nullable Arguments",
+      "Tooltip": "random tooltip",
+      "Placeholder": null,
+      "Widget": "Input",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": []
+    }
+  ]
+}

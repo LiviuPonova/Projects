@@ -1,0 +1,55 @@
+{
+  "DisplayName": "Sequence_renamed",
+  "Tooltip": "This activity uses the timespane widget, the collection widget and the data table widget",
+  "HelpLink": null,
+  "Color": "#FF46A442",
+  "IconRelativePath": "Sequence_renamed.xaml.svg",
+  "OriginalIconFileName": "climate-forecast-plus-svgrepo-com.svg",
+  "Arguments": [
+    {
+      "Name": "argument1",
+      "DisplayName": "argument1",
+      "Category": null,
+      "Tooltip": null,
+      "Widget": "Collection",
+      "IsRequired": false,
+      "IsPrincipal": false
+    },
+    {
+      "Name": "myDataTable2",
+      "DisplayName": "myDataTable2",
+      "Category": null,
+      "Tooltip": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true
+    },
+    {
+      "Name": "myCollection",
+      "DisplayName": "myCollection",
+      "Category": "Collections",
+      "Tooltip": null,
+      "Widget": "Collection",
+      "IsRequired": false,
+      "IsPrincipal": true
+    },
+    {
+      "Name": "myDataTable",
+      "DisplayName": "myDataTable",
+      "Category": "Data Tables",
+      "Tooltip": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true
+    },
+    {
+      "Name": "delayTime",
+      "DisplayName": "delayTime",
+      "Category": "Other",
+      "Tooltip": null,
+      "Widget": "Timespan",
+      "IsRequired": false,
+      "IsPrincipal": false
+    }
+  ]
+}

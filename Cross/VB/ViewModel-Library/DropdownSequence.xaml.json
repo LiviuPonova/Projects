@@ -1,0 +1,19 @@
+{
+  "DisplayName": "DropdownSequence",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "IconRelativePath": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "myDate",
+      "DisplayName": "myDate",
+      "Category": null,
+      "Tooltip": null,
+      "Widget": "Dropdown",
+      "IsRequired": false,
+      "IsPrincipal": false
+    }
+  ]
+}
